@@ -3,7 +3,7 @@
   "components": [
     [
       "FWT-SLIDER",
-      "2tlvz7ue",
+      "9eobjqjs",
       {
         "$": "wzflf8ma"
       },
@@ -23,7 +23,9 @@
           1,
           2
         ]
-      ]
+      ],
+      0,
+      2
     ],
     [
       "STENCIL-ROUTE",
@@ -64,6 +66,6 @@
   ],
   "loader": "app.js",
   "global": "app.global.js",
-  "core": "app/app.a11spwg7.js",
-  "corePolyfilled": "app/app.aysob2df.pf.js"
+  "core": "app/app.gzi246wy.js",
+  "corePolyfilled": "app/app.khkjmyiv.pf.js"
 }

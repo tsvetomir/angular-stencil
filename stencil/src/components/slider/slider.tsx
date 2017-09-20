@@ -20,6 +20,7 @@ export class SliderComponent {
     return (
       <div class="slider-container">
         <input type="range" min={this.min} max={this.max} value={this.value} class="slider" onChange={(event) => this.valueChangedHandler(event)}></input>
+        { this.value > (this.max - this.min) / 2 ? <slot name="high"/> : undefined }
       </div>
     );
   }

@@ -24,23 +24,23 @@ const fileManifest = [
   },
   {
     "url": "assets/build/app.js",
-    "revision": "99165c3a997d99cddcdcdee585cf4fea"
+    "revision": "f2727e764448cc0170fd9529f43dedb3"
   },
   {
     "url": "assets/build/app.registry.json",
-    "revision": "64bde8a0bbfe19a61039044c4a4f96cd"
+    "revision": "2b0439a173bbd8b2bde411d7cfc9450f"
   },
   {
-    "url": "assets/build/app/2tlvz7ue.js",
-    "revision": "4acc73208963d0c1a8f9eabe17b8cdb6"
+    "url": "assets/build/app/9eobjqjs.js",
+    "revision": "53eb8665704d5724198dd98fa34b4884"
   },
   {
-    "url": "assets/build/app/app.a11spwg7.js",
-    "revision": "788ef400097ab5e8e8464746de2599a9"
+    "url": "assets/build/app/app.gzi246wy.js",
+    "revision": "7fd622316297ba4206b5daf40b4cb1a5"
   },
   {
-    "url": "assets/build/app/app.aysob2df.pf.js",
-    "revision": "096df62626f17d447d0854f778cbaf36"
+    "url": "assets/build/app/app.khkjmyiv.pf.js",
+    "revision": "1c4350c33f164f7527324c193244913b"
   },
   {
     "url": "assets/build/app/if0opbrp.js",
@@ -68,11 +68,11 @@ const fileManifest = [
   },
   {
     "url": "index.html",
-    "revision": "df92394332299d53b11c1315d45b57d0"
+    "revision": "e71f09c9e86a362f3a33b25dfcbe965d"
   },
   {
     "url": "manifest.json",
-    "revision": "7f958ca5432ddd771183989b1c015833"
+    "revision": "2a184e97fcded4850709730575c65e19"
   }
 ];
 
